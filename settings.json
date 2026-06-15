@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lagggg.aternos.me:59249",
+    "ip": "lagggg.aternos.me",
     "port": 59249,
     "version": "1.21.11",
     "try-creative": false
