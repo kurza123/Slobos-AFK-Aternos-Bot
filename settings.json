@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "Admin",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Admin",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "peaceful.mcsh.io",
+    "ip": "windysmp.mcsh.io",
     "port": 59249,
     "version": "1.20.1",
     "try-creative": false
