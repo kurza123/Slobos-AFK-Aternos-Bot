@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "windysmp.mcsh.io",
-    "port": 59249,
-    "version": "1.20.1",
+    "port": 13073,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
