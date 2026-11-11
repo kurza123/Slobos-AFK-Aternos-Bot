@@ -1,12 +1,12 @@
 {
-  "name": "Admin",
+  "name": "Server",
   "bot-account": {
-    "username": "Admin",
+    "username": "Server",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "windysmp.mcsh.io",
+    "ip": "51.79.231.11:12022",
     "port": 13073,
     "version": "1.21.11",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "is bro good",
-        "happy",
-        "this world is awsome"
+        ".",
+        "..",
+        "..."
       ]
     },
     "chat-log": true,
@@ -58,8 +58,8 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
-    "combat": true,
+    "avoidMobs": false,
+    "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": true
