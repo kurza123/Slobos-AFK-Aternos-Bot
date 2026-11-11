@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "51.79.231.11:12022",
-    "port": 13073,
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
